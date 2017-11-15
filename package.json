@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "node-Training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DhavalB/NodeJS.git"
+  },
+  "author": "Dhaval B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DhavalB/NodeJS/issues"
+  },
+  "homepage": "https://github.com/DhavalB/NodeJS",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
